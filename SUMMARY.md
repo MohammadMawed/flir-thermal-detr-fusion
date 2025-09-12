@@ -1,4 +1,4 @@
-# 🔬 Deep Dive: Selective Multi-Scale Fusion with DETR for Thermal Object Detection
+# Selective Multi-Scale Fusion with DETR for Thermal Object Detection
 
 ## 1. Motivation
 
